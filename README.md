@@ -9,6 +9,13 @@ My name is Momoirodouhu.<br>
 I'm a Japanese student studying programming.
 </details>
 
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momoirodouhu&show_icons=true
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momoirodouhu&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 ## My favorite tool
 - [FireFox](https://www.mozilla.org/en-US/firefox/) (browser)
 - [VScode](https://code.visualstudio.com/) (editor)
