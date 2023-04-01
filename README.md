@@ -1,10 +1,11 @@
 ## About me
 **桃色豆腐という名前で活動している自称プログラマーの学生です** <br>
-普段はプライベートリポジトリで自分専用のものを作って遊んでいます
+普段はプライベートリポジトリで自分専用のものを作って遊んでいます<br>
+名前の由来？……404
 
 <details>
 <summary>For English programmer</summary>
-<b>Farst, if you came my profile because my English was bad, I'm sorry.</b><br><br>
+<b>Farst, if you came my profile because my English was bad, sorry.</b><br><br>
 My name is Momoirodouhu.<br>
 I'm a Japanese student studying programming.
 </details>
@@ -16,6 +17,17 @@ I'm a Japanese student studying programming.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=momoirodouhu&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+## Language
+### Computer language
+- python
+- c++
+- javascript (with vue.js or natural)
+
+### Natural language
+- Japanese (first lang)
+- english
+- russian (little)
+
 ## My favorite tool
 - [FireFox](https://www.mozilla.org/en-US/firefox/) (browser)
 - [VScode](https://code.visualstudio.com/) (editor)
@@ -23,6 +35,7 @@ I'm a Japanese student studying programming.
 
 ## Links
 - [Twitter](https://twitter.com/momoirodouhu)
+- [My Misskey](https://momoirodouhu.mydns.jp/) or `@momoirodouhu@momoirodouhu.mydns.jp`
 
 
 <!--
