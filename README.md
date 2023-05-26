@@ -26,7 +26,7 @@ I'm a Japanese student studying programming.
 ### Natural language
 - Japanese (first lang)
 - english
-- russian (little)
+- russian (just a little)
 
 ## My favorite tool
 - [FireFox](https://www.mozilla.org/en-US/firefox/) (browser)
@@ -34,6 +34,7 @@ I'm a Japanese student studying programming.
 - [Mery](https://www.haijin-boys.com/wiki/) (small text editor)
 
 ## Links
+- [My site](http://momoiro.me/)
 - [Twitter](https://twitter.com/momoirodouhu)
 - [My Misskey](https://momoirodouhu.mydns.jp/) or `@momoirodouhu@momoirodouhu.mydns.jp`
 
