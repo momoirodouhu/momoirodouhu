@@ -34,7 +34,7 @@ I'm a Japanese student studying programming.
 - [Mery](https://www.haijin-boys.com/wiki/) (small text editor)
 
 ## Links
-- [My site](http://momoiro.me/)
+- [My site(wip)](http://momoiro.me/)
 - [Twitter](https://twitter.com/momoirodouhu)
 - [My Misskey](https://momoirodouhu.mydns.jp/) or `@momoirodouhu@momoirodouhu.mydns.jp`
 
