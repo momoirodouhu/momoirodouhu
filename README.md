@@ -5,7 +5,6 @@
 
 <details>
 <summary>For English programmer</summary>
-<b>Farst, if you came my profile because my English was bad, sorry.</b><br><br>
 My name is Momoirodouhu.<br>
 I'm a Japanese student studying programming.
 </details>
